@@ -60,24 +60,10 @@ pip install -r requirements.txt
 
 ## Execução
 
-Você pode iniciar a aplicação de duas formas.
-
 Execução manual:
 
 ```powershell
 python run.py
-```
-
-Execução por script no Windows:
-
-```powershell
-.\start.ps1
-```
-
-ou
-
-```bat
-start.bat
 ```
 
 ## Endereços da aplicação
